@@ -12,3 +12,8 @@
 
 I am on a mission to teach myself and document every step of my journey —  
 from **absolute beginner (zero knowledge)** to **advanced networking mastery**.
+## Day 2 — OSI Model
+- Learned all 7 OSI layers with protocols and attacks
+- Built 3-device network with switch in Packet Tracer
+- Mapped ping, traceroute, netstat to OSI layers
+- Identified which layer each cyberattack targets
